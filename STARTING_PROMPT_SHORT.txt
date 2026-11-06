@@ -1,0 +1,17 @@
+FREE STARTING PROMPT · AI MONEY TRAIL
+Paste into Claude Code or a similar AI coding assistant, in an empty folder:
+
+Build me a page called "AI Money Trail · follow the money behind the AI build-out". First ask me one question at a time: a standalone page or a tab in my project; which companies to track as spenders, chip sellers and AI labs; one JSON data file (default yes); offline only (default yes). Make the finished page one HTML file with that data built in, so it opens offline with a double-click.
+
+Rules: Never invent a number, date or source. Give every figure a source link, its period, the date you checked it, and a label: actual, guidance, commitment, estimate or scenario. If you can't find a source, mark it "unverified". Never add numbers that aren't like for like, never show a plan as money already spent, and say that company capital spending includes non-AI spending. Backlog is contracted revenue not yet recognised; some may already be paid. No personal data, logins or API keys. If this is a tab in my project, read only its own data file. Colours and dots are never buy or sell signals.
+
+Five tabs, dark theme, plain HTML/SVG charts:
+1. Overview: planned spending this year (midpoints, companies named), spent so far, cloud sales, next results dates, and an "illustrative model, not a reported figure" strip.
+2. Tracker: spending vs plan per company, cloud revenue and operating income, backlog with the company's own timing, a dated log of events with sources.
+3. Where the money goes: you, AI labs, cloud companies, then chips, power and buildings, then chip factories, labelled as illustrative.
+4. Where it's built: biggest projects, power deals, chip and cloud agreements, each with status and source.
+5. Delay machine: an investment, a 10% assumed return, sliders for first cash year and final earning year, presets (on time, 1 and 2 years late, 2 late lasting to year 10), the yearly cash needed to break even, and paid today vs worth today labelled "hypothetical, not a reported company loss".
+
+Test the maths at 10%: $100B and $30B a year gives +13.72 (years 1-5), -38.34 (years 3-5), +32.27 (years 3-10). $730B needs $192.6B a year on time and $355.2B a year if paid only in years 3-5. $192.57B a year arriving only in years 3-5 is worth $395.78B today, -334.22 against $730B.
+
+Show "Public information for education only. Not financial advice." on every tab, keep it readable on a phone, and show me the page before you finish.
